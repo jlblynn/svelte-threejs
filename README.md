@@ -18,3 +18,7 @@ npm run dev
 ```
 
 Navigate to [localhost:8080](http://localhost:8080). You should see your app running. Edit a component file in `src`, save it, and reload the page to see your changes.
+
+## Getting Started
+
+This is a simple svelte app with a three.js animation I made for "Web Brains".  
